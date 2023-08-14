@@ -3,7 +3,7 @@
 
 
 
-- 🌱 Atualmente estou aprendendo <img loading="lazy" src=https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E
+- 🌱 Atualmente estou aprendendo <img loading="lazy" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"
  width="40" height="40"/>
 
 - 👯 Estou procurando colaborar em ...
