@@ -2,7 +2,7 @@
 ## Bem vindo ao meu perfil GitHub 👋
 
 
-- 🌱 Atualmente estou aprendendo: </br>
+ 🌱 Atualmente estou aprendendo: </br>
    <img loading="lazy" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
    <img loading="lazy" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
    <img loading="lazy" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
@@ -18,8 +18,11 @@
  
    
    
-- 👯 Estou procurando colaborar em projetos de desenvolvimento Front-end e Back-end
-- 📫 Como entrar em contato comigo: E-mail: matheuspereiramartins1993@gmail.com , Telefone: (31)98480-0251 e LinkedIn: https://www.linkedin.com/in/matheus-pereira-martins-49225027b/
+
+ 📫 Como entrar em contato comigo: </br>
+ E-mail: matheuspereiramartins1993@gmail.com </br>
+ Telefone: (31)98480-0251 </br> 
+ LinkedIn: https://www.linkedin.com/in/matheus-pereira-martins-49225027b/
 
 
 
