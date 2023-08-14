@@ -3,7 +3,7 @@
 
 
 
-- 🌱 Atualmente estou aprendendo <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
+- 🌱 Atualmente estou aprendendo <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="20" height="20"/>
 
 - 👯 Estou procurando colaborar em ...
 - 🤔 Estou procurando ajuda com ...
