@@ -3,7 +3,8 @@
 
 
 
-- 🌱 Atualmente estou aprendendo Javascript 
+- 🌱 Atualmente estou aprendendo <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+
 - 👯 Estou procurando colaborar em ...
 - 🤔 Estou procurando ajuda com ...
 - 💬 Pergunte-me sobre ...
