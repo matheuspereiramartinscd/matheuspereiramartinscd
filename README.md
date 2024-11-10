@@ -13,7 +13,7 @@ Atualmente estou aprendendo: </br>
    
    
 
- 📫 Como entrar em contato comigo: </br>
+ 📫 Contato: </br>
  E-mail: matheuspereiramartins1993@gmail.com </br>
  Telefone: (31)98480-0251 </br> 
  LinkedIn: https://www.linkedin.com/in/matheus-pereira-martins-49225027b/
