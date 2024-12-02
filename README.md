@@ -12,7 +12,7 @@
 
 
 
-Sou estudante de **Ciência da Computação** e **Contábeis** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.  
+Sou estudante de **Ciência da Computação** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.  
 - 🌐 Explorando tecnologias **Full Stack** e contribuindo para projetos web, tanto no **frontend** quanto no **backend**.  
 - 💡 Apaixonado por **aprendizado contínuo** e em busca de novos desafios no desenvolvimento de software.  
 - 🧩 No meu tempo livre, gosto de resolver problemas de programação, aprender novas ferramentas e ler artigos técnicos.  
@@ -92,6 +92,85 @@ Sou estudante de **Ciência da Computação** e **Contábeis** <img src="https:/
 **Telefone:** (31) 98480-0251
 
   
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-pereira-martins-49225027b/)  
+
+
+# 👋 Hello!
+
+</br>
+
+### :man_technologist: **About Me:**
+
+I am a **Computer Science** student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.  
+- 🌐 Exploring **Full Stack** technologies and contributing to web projects, both frontend and backend.  
+- 💡 Passionate about **continuous learning** and always seeking new challenges in software development.  
+- 🧩 In my free time, I enjoy solving programming problems, learning new tools, and reading technical articles.  
+
+</br>
+
+</br>
+
+### :hammer_and_wrench: **Technologies:**  
+
+<div align="center">
+  
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Javascript+Node.js+React.js;Python+Django+Flask;Java+Springboot+Maven;PHP+Laravel;MySQL+PostgreSQL+MongoDB)](https://git.io/typing-svg)
+
+</div>
+
+</br>
+<div align="center" style="display: flex; flex-wrap: wrap; gap: 10px;">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" title="CSS3" alt="CSS" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" title="Express" alt="Express" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="PHP" alt="PHP" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" title="Flask" alt="Flask" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg" title="Django" alt="Django" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring Boot" alt="Spring Boot" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/rabbitmq/rabbitmq-original-wordmark.svg" title="RabbitMQ" alt="RabbitMQ" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>
+</div>
+</br>
+</br>
+
+</br>
+
+### 📊 **Stats:**  
+
+<div align="center">
+  
+[![GitHub Streak](https://github-readme-stre-git-32433b-matheuspereiramartinscds-projects.vercel.app?user=matheuspereiramartinscd&theme=dark&locale=en)](https://git.io/streak-stats)
+
+</div>
+
+</br>
+</br>
+
+</br>
+
+### 🌐 **Most Used Languages:**  
+<div align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheuspereiramartinscd&layout=compact&theme=vision-friendly-dark" alt="Top Langs"/>
+  </a>
+</div>
+</br>
+
+### 📫 **Contact**  
+
+**Email:** matheuspereiramartins1993@gmail.com  
+
+**Phone:** +55 (31) 98480-0251
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-pereira-martins-49225027b/)  
 
 
