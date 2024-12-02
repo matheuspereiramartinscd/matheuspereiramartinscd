@@ -11,11 +11,13 @@
 
 
 
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Olá,+sou+Matheus+Pereira+Martins!;Estudante+de+Ciência+da+Computação+e+Contábeis;Desenvolvedor+Full+Stack+apaixonado+por+tecnologia;Bem-vindo+ao+meu+perfil!)](https://git.io/typing-svg)
 
-Sou estudante de **Ciência da Computação**<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.  
+Sou estudante de **Ciência da Computação** e **Contábeis** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.  
 - 🌐 Explorando tecnologias **Full Stack** e contribuindo para projetos web, tanto no **frontend** quanto no **backend**.  
 - 💡 Apaixonado por **aprendizado contínuo** e em busca de novos desafios no desenvolvimento de software.  
 - 🧩 No meu tempo livre, gosto de resolver problemas de programação, aprender novas ferramentas e ler artigos técnicos.  
+
 
 </br>
 
