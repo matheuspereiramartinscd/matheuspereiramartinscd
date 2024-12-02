@@ -1,7 +1,16 @@
 
 # 👋 Olá!
 
+
+
+
+
 ### :man_technologist: **Sobre mim**  
+
+
+
+
+
 Sou estudante de **Ciência da Computação**<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.  
 - 🌐 Explorando tecnologias **Full Stack** e contribuindo para projetos web, tanto no **frontend** quanto no **backend**.  
 - 💡 Apaixonado por **aprendizado contínuo** e em busca de novos desafios no desenvolvimento de software.  
