@@ -56,9 +56,7 @@ Sou estudante de **Ciência da Computação**<img src="https://media.giphy.com/m
 ### 📊 **Stats:**  
 <div align="center">
   
-<a href="https://git.io/streak-stats">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=matheuspereiramartinscd&theme=dark&background=000000" alt="GitHub Streak"/>
-</a>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=matheuspereiramartinscd&theme=dark&background=000000)](https://git.io/streak-stats)
 
   
 </div>
