@@ -11,7 +11,9 @@
 
 
 <div align="center">
+  
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Olá,+sou+Matheus+Pereira+Martins!;Javascript;Node.js;React.js;Python;Django;Flask;Java;Springboot)](https://git.io/typing-svg)
+
 </div>
 
 Sou estudante de **Ciência da Computação** e **Contábeis** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.  
