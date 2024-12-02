@@ -49,7 +49,7 @@ Sou estudante de **Ciência da Computação**<img src="https://media.giphy.com/m
 </br>
 
 
-</br>
+
 
 </br>
 
@@ -72,7 +72,7 @@ Sou estudante de **Ciência da Computação**<img src="https://media.giphy.com/m
 </div>
 </br>
 
-</br>
+
 
 
 ### 📫 **Contato**  
