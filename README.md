@@ -8,6 +8,7 @@
 ### :man_technologist: **Sobre mim**  
 
 
+</br>
 
 
 
@@ -16,6 +17,7 @@ Sou estudante de **Ciência da Computação**<img src="https://media.giphy.com/m
 - 💡 Apaixonado por **aprendizado contínuo** e em busca de novos desafios no desenvolvimento de software.  
 - 🧩 No meu tempo livre, gosto de resolver problemas de programação, aprender novas ferramentas e ler artigos técnicos.  
 
+</br>
 
 
 ---
@@ -41,11 +43,13 @@ Sou estudante de **Ciência da Computação**<img src="https://media.giphy.com/m
   <img src="https://github.com/devicons/devicon/blob/master/icons/rabbitmq/rabbitmq-original-wordmark.svg" title="RabbitMQ" alt="RabbitMQ" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>
 </div>
+</br>
 
 ---
 
 ### 📊 **Stats**  
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=matheuspereiramartinscd&theme=dark&background=000000)](https://git.io/streak-stats)
+</br>
 
 ### 🌐 **Linguagens mais utilizadas**  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matheuspereiramartinscd&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
