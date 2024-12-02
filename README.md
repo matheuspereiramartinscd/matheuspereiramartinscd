@@ -49,12 +49,12 @@ Sou estudante de **Ciência da Computação**<img src="https://media.giphy.com/m
 
 ---
 </br>
-<div style="text-align:center">
+
 ### 📊 **Stats**  
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=matheuspereiramartinscd&theme=dark&background=000000)](https://git.io/streak-stats)
 </br>
 </br>
-</div>
+
 
 ### 🌐 **Linguagens mais utilizadas**  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matheuspereiramartinscd&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
