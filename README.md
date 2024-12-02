@@ -47,5 +47,5 @@ Sou estudante de **Ciência da Computação**<img src="https://media.giphy.com/m
 - **E-mail:** matheuspereiramartins1993@gmail.com  
 - **Telefone:** (31) 98480-0251
   
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-pereira-martins-49225027b/)  
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-pereira-martins-49225027b/)  
 
