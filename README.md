@@ -50,7 +50,7 @@ Sou estudante de **Ciência da Computação**<img src="https://media.giphy.com/m
 
 ---
 </br>
-
+</br>
 ### 📊 **Stats:**  
 <div align="center">
   <a href="https://git.io/streak-stats">
@@ -59,7 +59,7 @@ Sou estudante de **Ciência da Computação**<img src="https://media.giphy.com/m
 </div>
 </br>
 </br>
-
+</br>
 ### 🌐 **Linguagens mais utilizadas:**  
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
