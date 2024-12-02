@@ -8,7 +8,7 @@
 ### :man_technologist: **Sobre mim**  
 
 
-</br>
+
 
 
 
@@ -53,6 +53,7 @@ Sou estudante de **Ciência da Computação**<img src="https://media.giphy.com/m
 
 ### 🌐 **Linguagens mais utilizadas**  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matheuspereiramartinscd&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+</br>
 
 ---
 
