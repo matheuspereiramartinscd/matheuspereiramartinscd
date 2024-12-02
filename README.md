@@ -13,7 +13,11 @@ Olá,
 
 - :zap: No meu tempo livre, gosto de resolver problemas de programação, aprender novas ferramentas e ler artigos técnicos.
 
-- :mailbox: Como me encontrar: [![Linkedin Badge](https://img.shields.io/badge/-matheuspereiramartins-blue?style=flat&logo=Linkedin&logoColor=white)](sua-url-linkedin)
+- :mailbox: Como me encontrar:<div id="badges">
+  <a href="https://www.linkedin.com/in/matheus-pereira-martins-49225027b/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</div>
 
 
 ### :hammer_and_wrench: Tecnologias :
