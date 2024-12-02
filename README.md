@@ -21,6 +21,7 @@ Sou estudante de **Ciência da Computação**<img src="https://media.giphy.com/m
 
 
 ---
+</br>
 
 ### :hammer_and_wrench: **Tecnologias**  
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
@@ -46,6 +47,7 @@ Sou estudante de **Ciência da Computação**<img src="https://media.giphy.com/m
 </br>
 
 ---
+</br>
 
 ### 📊 **Stats**  
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=matheuspereiramartinscd&theme=dark&background=000000)](https://git.io/streak-stats)
