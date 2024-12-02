@@ -51,13 +51,20 @@ Sou estudante de **Ciência da Computação**<img src="https://media.giphy.com/m
 </br>
 
 ### 📊 **Stats**  
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=matheuspereiramartinscd&theme=dark&background=000000)](https://git.io/streak-stats)
+<div align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="http://github-readme-streak-stats.herokuapp.com?user=matheuspereiramartinscd&theme=dark&background=000000" alt="GitHub Streak"/>
+  </a>
+</div>
 </br>
 </br>
-
 
 ### 🌐 **Linguagens mais utilizadas**  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matheuspereiramartinscd&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheuspereiramartinscd&layout=compact&theme=vision-friendly-dark" alt="Top Langs"/>
+  </a>
+</div>
 </br>
 
 
