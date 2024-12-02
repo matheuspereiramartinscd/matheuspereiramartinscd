@@ -12,7 +12,7 @@
 
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Olá,+sou+Matheus+Pereira+Martins!;Javascript;Node.js;React.js;Python;Django;Flask;Java;Springboot)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=O;Javascript+Node.js+React.js;Python+Django+Flask;Java+Springboot+Maven;MySQL+PostgreSQL+MongoDB)](https://git.io/typing-svg)
 
 </div>
 
