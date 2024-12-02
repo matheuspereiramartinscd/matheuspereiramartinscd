@@ -2,7 +2,7 @@
 # 👋 Olá!
 
 ### :man_technologist: **Sobre mim**  
-Sou um estudante de **Ciência da Computação** do Brasil <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.  
+Sou estudante de **Ciência da Computação**<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.  
 - 🌐 Explorando tecnologias **Full Stack** e contribuindo para projetos web, tanto no **frontend** quanto no **backend**.  
 - 💡 Apaixonado por **aprendizado contínuo** e em busca de novos desafios no desenvolvimento de software.  
 - 🧩 No meu tempo livre, gosto de resolver problemas de programação, aprender novas ferramentas e ler artigos técnicos.  
@@ -45,6 +45,6 @@ Sou um estudante de **Ciência da Computação** do Brasil <img src="https://med
 
 ### 📫 **Contato**  
 - **E-mail:** matheuspereiramartins1993@gmail.com  
-- **Telefone:** (31) 98480-0251  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-pereira-martins-49225027b/)  
+- **Telefone:** (31) 98480-0251
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-pereira-martins-49225027b/)  
 
