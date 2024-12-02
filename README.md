@@ -5,7 +5,7 @@
 </br>
 
 
-### :man_technologist: **Sobre mim**  
+### :man_technologist: **Sobre mim:**  
 
 
 
@@ -23,8 +23,8 @@ Sou estudante de **Ciência da Computação**<img src="https://media.giphy.com/m
 ---
 </br>
 
-### :hammer_and_wrench: **Tecnologias**  
-<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+### :hammer_and_wrench: **Tecnologias:**  
+<div style="display: align="center"; flex; flex-wrap: wrap; gap: 10px;">
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>
@@ -50,7 +50,7 @@ Sou estudante de **Ciência da Computação**<img src="https://media.giphy.com/m
 ---
 </br>
 
-### 📊 **Stats**  
+### 📊 **Stats:**  
 <div align="center">
   <a href="https://git.io/streak-stats">
     <img src="http://github-readme-streak-stats.herokuapp.com?user=matheuspereiramartinscd&theme=dark&background=000000" alt="GitHub Streak"/>
@@ -59,7 +59,7 @@ Sou estudante de **Ciência da Computação**<img src="https://media.giphy.com/m
 </br>
 </br>
 
-### 🌐 **Linguagens mais utilizadas**  
+### 🌐 **Linguagens mais utilizadas:**  
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheuspereiramartinscd&layout=compact&theme=vision-friendly-dark" alt="Top Langs"/>
