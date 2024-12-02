@@ -51,6 +51,8 @@ Sou estudante de **Ciência da Computação**<img src="https://media.giphy.com/m
 
 </br>
 
+</br>
+
 ### 📊 **Stats:**  
 <div align="center">
   <a href="https://git.io/streak-stats">
@@ -58,6 +60,8 @@ Sou estudante de **Ciência da Computação**<img src="https://media.giphy.com/m
   </a>
 </div>
 </br>
+</br>
+
 </br>
 
 ### 🌐 **Linguagens mais utilizadas:**  
@@ -68,7 +72,7 @@ Sou estudante de **Ciência da Computação**<img src="https://media.giphy.com/m
 </div>
 </br>
 
-
+</br>
 
 
 ### 📫 **Contato**  
