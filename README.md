@@ -20,10 +20,7 @@ Sou estudante de **Ciência da Computação** <img src="https://media.giphy.com/
 
 
 
-I am a **Computer Science** student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.  
-- 🌐 Exploring **Full Stack** technologies and contributing to web projects, both frontend and backend.  
-- 💡 Passionate about **continuous learning** and always seeking new challenges in software development.  
-- 🧩 In my free time, I enjoy solving programming problems, learning new tools, and reading technical articles.  
+
 
 
 </br>
