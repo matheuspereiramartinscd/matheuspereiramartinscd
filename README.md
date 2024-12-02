@@ -57,7 +57,7 @@ Sou estudante de **Ciência da Computação**<img src="https://media.giphy.com/m
 
 <div align="center">
   
-[![GitHub Streak](https://streak-stats.demolab.com?user=matheuspereiramartinscd&theme=dark&locale=pt_BR)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats-8g23mokbi.vercel.app?user=matheuspereiramartinscd&theme=dark&locale=pt_BR)](https://git.io/streak-stats)
 
   
 </div>
