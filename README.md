@@ -17,7 +17,6 @@ Sou estudante de **Ciência da Computação**<img src="https://media.giphy.com/m
 - 💡 Apaixonado por **aprendizado contínuo** e em busca de novos desafios no desenvolvimento de software.  
 - 🧩 No meu tempo livre, gosto de resolver problemas de programação, aprender novas ferramentas e ler artigos técnicos.  
 
-</br>
 
 
 ---
