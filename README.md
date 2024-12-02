@@ -17,6 +17,7 @@ Sou estudante de **Ciência da Computação**<img src="https://media.giphy.com/m
 - 💡 Apaixonado por **aprendizado contínuo** e em busca de novos desafios no desenvolvimento de software.  
 - 🧩 No meu tempo livre, gosto de resolver problemas de programação, aprender novas ferramentas e ler artigos técnicos.  
 
+</br>
 
 
 ---
@@ -43,6 +44,7 @@ Sou estudante de **Ciência da Computação**<img src="https://media.giphy.com/m
   <img src="https://github.com/devicons/devicon/blob/master/icons/rabbitmq/rabbitmq-original-wordmark.svg" title="RabbitMQ" alt="RabbitMQ" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>
 </div>
+</br>
 </br>
 
 ---
