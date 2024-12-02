@@ -6,7 +6,7 @@ Olá,
   </a>
 </div>
 
-### :man_technologist: Sobre mim : Sou um estudante de Ciência da Computação <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> do Brasil.
+### :man_technologist: Sobre mim : Sou um estudante de Ciência da Computação <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - :telescope: Atualmente, estou explorando tecnologias Full Stack e contribuindo para projetos web, tanto no frontend quanto no backend.
 
 - :seedling: Apaixonado por aprendizado contínuo e em busca de novos desafios no desenvolvimento de software.
