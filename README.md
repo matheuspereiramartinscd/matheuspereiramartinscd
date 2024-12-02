@@ -7,8 +7,7 @@ Sou um estudante de **Ciência da Computação** do Brasil <img src="https://med
 - 💡 Apaixonado por **aprendizado contínuo** e em busca de novos desafios no desenvolvimento de software.  
 - 🧩 No meu tempo livre, gosto de resolver problemas de programação, aprender novas ferramentas e ler artigos técnicos.  
 
-📬 **Como me encontrar**:  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-pereira-martins-49225027b/)  
+
 
 ---
 
@@ -47,4 +46,5 @@ Sou um estudante de **Ciência da Computação** do Brasil <img src="https://med
 ### 📫 **Contato**  
 - **E-mail:** matheuspereiramartins1993@gmail.com  
 - **Telefone:** (31) 98480-0251  
-- **LinkedIn:** [Matheus Pereira Martins](https://www.linkedin.com/in/matheus-pereira-martins-49225027b/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-pereira-martins-49225027b/)  
+
