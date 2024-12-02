@@ -1,10 +1,6 @@
 Olá,
 
-<div id="badges">
-  <a href="https://www.linkedin.com/in/matheus-pereira-martins-49225027b/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-</div>
+
 
 ### :man_technologist: Sobre mim : Sou um estudante de Ciência da Computação <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - :telescope: Atualmente, estou explorando tecnologias Full Stack e contribuindo para projetos web, tanto no frontend quanto no backend.
