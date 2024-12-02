@@ -18,7 +18,7 @@ Sou estudante de **Ciência da Computação**<img src="https://media.giphy.com/m
 - 🧩 No meu tempo livre, gosto de resolver problemas de programação, aprender novas ferramentas e ler artigos técnicos.  
 
 </br>
-
+[![GitHub Streak](https://github-readme-stre-git-32433b-matheuspereiramartinscds-projects.vercel.app?user=matheuspereiramartinscd)](https://git.io/streak-stats)
 
 
 </br>
