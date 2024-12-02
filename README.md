@@ -27,7 +27,7 @@ Sou estudante de **Ciência da Computação** e **Contábeis** <img src="https:/
 
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Javascript+Node.js+React.js;Python+Django+Flask;Java+Springboot+Maven;MySQL+PostgreSQL+MongoDB)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Javascript+Node.js+React.js;Python+Django+Flask;Java+Springboot+Maven;PHP+Laravel;MySQL+PostgreSQL+MongoDB)](https://git.io/typing-svg)
 
 </div>
 
