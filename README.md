@@ -20,7 +20,7 @@ Sou estudante de **Ciência da Computação**<img src="https://media.giphy.com/m
 </br>
 
 
----
+--
 </br>
 
 ### :hammer_and_wrench: **Tecnologias:**  
