@@ -17,12 +17,13 @@ Sou estudante de **Ciência da Computação** <img src="https://media.giphy.com/
 - 💡 Apaixonado por **aprendizado contínuo** e em busca de novos desafios no desenvolvimento de software.  
 - 🧩 No meu tempo livre, gosto de resolver problemas de programação, aprender novas ferramentas e ler artigos técnicos.  
 
-👨‍💻 About Me:
-I am a Computer Science student .
 
-🌐 Exploring Full Stack technologies and contributing to web projects, both frontend and backend.
-💡 Passionate about continuous learning and always seeking new challenges in software development.
-🧩 In my free time, I enjoy solving programming problems, learning new tools, and reading technical articles.
+### :man_technologist: **About Me:**
+
+I am a **Computer Science** student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.  
+- 🌐 Exploring **Full Stack** technologies and contributing to web projects, both frontend and backend.  
+- 💡 Passionate about **continuous learning** and always seeking new challenges in software development.  
+- 🧩 In my free time, I enjoy solving programming problems, learning new tools, and reading technical articles.  
 
 
 </br>
