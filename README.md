@@ -10,11 +10,7 @@
 
 
 
-<div align="center">
-  
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Javascript+Node.js+React.js;Python+Django+Flask;Java+Springboot+Maven;MySQL+PostgreSQL+MongoDB)](https://git.io/typing-svg)
 
-</div>
 
 Sou estudante de **Ciência da Computação** e **Contábeis** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.  
 - 🌐 Explorando tecnologias **Full Stack** e contribuindo para projetos web, tanto no **frontend** quanto no **backend**.  
@@ -28,6 +24,13 @@ Sou estudante de **Ciência da Computação** e **Contábeis** <img src="https:/
 </br>
 
 ### :hammer_and_wrench: **Tecnologias:**  
+
+<div align="center">
+  
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Javascript+Node.js+React.js;Python+Django+Flask;Java+Springboot+Maven;MySQL+PostgreSQL+MongoDB)](https://git.io/typing-svg)
+
+</div>
+
 </br>
 <div align="center" style="display: flex; flex-wrap: wrap; gap: 10px;">
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>
