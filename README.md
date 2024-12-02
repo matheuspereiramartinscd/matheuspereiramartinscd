@@ -24,7 +24,9 @@
 ## **Stats**:
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=matheuspereiramartinscd&theme=dark&background=000000)](https://git.io/streak-stats)
   
-   
+## **Linguagens mais utilizadas**:
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matheuspereiramartinscd&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
 
  📫 Contato: </br>
  E-mail: matheuspereiramartins1993@gmail.com </br>
