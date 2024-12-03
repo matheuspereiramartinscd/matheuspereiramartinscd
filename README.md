@@ -63,7 +63,7 @@ Sou estudante de **Ciência da Computação**/ I am a **Computer Science** stude
 
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Python+Pandas+NumPy;R+Matplotlib+Seaborn;SQL+PostgreSQL+MongoDB;Machine+Learning+Deep+Learning;TensorFlow+Keras+Scikit-learn)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Python+Pandas+NumPy;R+Matplotlib+Seaborn;SQL+PostgreSQL+MongoDB;Machine+Learning+Deep+Learning;TensorFlow+Keras+Scikit-learn)](https://git.io/typing-svg)
 
 </div>
 
@@ -79,7 +79,6 @@ Sou estudante de **Ciência da Computação**/ I am a **Computer Science** stude
   <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="MongoDB" alt="MongoDB" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original-wordmark.svg" title="TensorFlow" alt="TensorFlow" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/keras/keras-original-wordmark.svg" title="Keras" alt="Keras" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/scikitlearn/scikit-learn-original-wordmark.svg" title="Scikit-learn" alt="Scikit-learn" width="40" height="40"/>
 </div>
 </br>
 </br>
