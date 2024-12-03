@@ -63,7 +63,7 @@ Sou estudante de **Ciência da Computação**/ I am a **Computer Science** stude
 
 <div align="center">
   
-    [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Python+Pandas+NumPy;R+Matplotlib+Seaborn;SQL+PostgreSQL+MongoDB;Machine+Learning+Deep+Learning;TensorFlow+Keras+Scikit-learn)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Python+Pandas+NumPy;R+Matplotlib+Seaborn;SQL+PostgreSQL+MongoDB;Machine+Learning+Deep+Learning;TensorFlow+Keras+Scikit-learn)](https://git.io/typing-svg)
 
 </div>
 
