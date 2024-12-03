@@ -63,11 +63,11 @@ Sou estudante de **Ciência da Computação**/ I am a **Computer Science** stude
 
 <div align="center">
   
-  [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Python+Pandas+NumPy;R+Matplotlib+Seaborn;SQL+PostgreSQL+MongoDB;Machine+Learning+Deep+Learning;TensorFlow+Keras+Scikit-learn)](https://git.io/typing-svg)
+    [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Python+Pandas+NumPy;R+Matplotlib+Seaborn;SQL+PostgreSQL+MongoDB;Machine+Learning+Deep+Learning;TensorFlow+Keras+Scikit-learn)](https://git.io/typing-svg)
 
 </div>
 
-<div align="center">
+
 <div align="center" style="display: flex; flex-wrap: wrap; gap: 10px;">
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" title="Pandas" alt="Pandas" width="40" height="40"/>
