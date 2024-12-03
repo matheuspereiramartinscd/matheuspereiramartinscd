@@ -30,7 +30,7 @@ Sou estudante de **Ciência da Computação**/ I am a **Computer Science** stude
 ### :hammer_and_wrench: **Tecnologias:**  
 
 <div align="center">
-  
+
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Javascript+Node.js+React.js;Python+Django+Flask;Java+Springboot+Maven;PHP+Laravel;MySQL+PostgreSQL+MongoDB)](https://git.io/typing-svg)
 
 </div>
