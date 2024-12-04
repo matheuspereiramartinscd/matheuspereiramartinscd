@@ -15,7 +15,7 @@
 Sou estudante de **Ciência da Computação**/ I am a **Computer Science** student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
 - 📊 Aprendendo análise de dados e ciência de dados, com foco em ferramentas e técnicas para extrair insights.
 - 🌐 Explorando tecnologias **Full Stack**.
-- 💡 **Aprendizado contínuo** e em busca de novos desafios no desenvolvimento de software.  
+- 💡  **Aprendizado contínuo** e em busca de novos desafios no desenvolvimento de software.  
 - 🧩 No meu tempo livre, gosto de resolver problemas de programação, aprender novas ferramentas e ler artigos técnicos.
 
 
