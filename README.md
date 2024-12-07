@@ -117,6 +117,7 @@ Sou estudante de **Ciência da Computação**/ I am a **Computer Science** stude
 
   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-pereira-martins-49225027b/)  
+[![Facebook](https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=61569965245181&locale=pt_BR)
 
 
 
