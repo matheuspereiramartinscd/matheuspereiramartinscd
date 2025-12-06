@@ -12,7 +12,7 @@
 
 
 
-Sou estudante de **Ciência da Computação** e **Ciências Contábeis*/ I am a **Computer Science** and **Accounting** student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
+Sou estudante de **Ciência da Computação** e **Ciências Contábeis** I am a **Computer Science** and **Accounting** student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
 - 📊 Aprendendo análise de dados e ciência de dados, com foco em ferramentas e técnicas para extrair insights.
 - 🌐 Explorando tecnologias **Full Stack**.
 - 💡  **Aprendizado contínuo** e em busca de novos desafios no desenvolvimento de software.  
