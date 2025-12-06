@@ -98,13 +98,7 @@ Sou estudante de **Ciência da Computação** e **Ciências Contábeis** / I am 
 
 </br>
 
-### 🌐 **Linguagens mais utilizadas:**  
-<div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheuspereiramartinscd&layout=compact&theme=vision-friendly-dark" alt="Top Langs"/>
-  </a>
-</div>
-</br>
+
 
 
 
